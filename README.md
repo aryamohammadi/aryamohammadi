@@ -7,11 +7,7 @@
 </div>
 
 
-Hi I'm **Arya**, a **CS student** passionate about building **smart**, **useful**, and **fun tech**.
-
-My journey is filled with various projects across **full-stack development**, where I focus on creating things that are both functional and enjoyable to use. I'm always learning, experimenting, and finding new ways to level up as a developer.
-
-Outside the digital world, I'm all about **balance** — hitting the **gym**, exploring **music**, going on **mini road trips**, and staying fueled by **curiosity** and **coffee**.
+Hi I'm **Arya**, a **CS student** passionate about building **smart**, **useful**, and **fun tech**. My journey is filled with various projects across **full-stack development**, where I focus on creating things that are both functional and enjoyable to use. I'm always learning, experimenting, and finding new ways to level up as a developer. Outside the digital world, I'm all about **balance** — hitting the **gym**, exploring **music**, going on **mini road trips**, and staying fueled by **curiosity** and **coffee**.
 
 <br>
 
