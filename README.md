@@ -49,7 +49,5 @@ Outside the digital world, I'm all about **balance** — hitting the **gym**, ex
 
 ## Connect with me.
 
-[<img target="_blank" src="https://img.icons8.com/nolan/64/linkedin.png" title="linkedin" width="90" height="90">](https://www.linkedin.com/in/-beaudoin/)
-[<img src="https://img.icons8.com/nolan/64/twitterx.png" width="90" height="90">](https://twitter.com/chris_beauds)
-
+[<img target="_blank" src="https://img.icons8.com/nolan/64/linkedin.png" title="linkedin" width="90" height="90">](https://www.linkedin.com/in/aryamshahi/)
 </div>
