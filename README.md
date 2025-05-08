@@ -15,7 +15,6 @@ Outside the digital world, I'm all about **balance** — hitting the **gym**, ex
 
 <br>
 
-<img src="https://github.com/cee8/some-chris-images/blob/main/ChrisCodingImage" width=250 height=335 align="right"/>
 <p align="left">
 <h3> My Tech Stack </h3><br/>
 <!-- Languages -->
