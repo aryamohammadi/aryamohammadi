@@ -7,7 +7,11 @@
 </div>
 
 
-Hi I'm **Arya**, a **CS student** passionate about building **smart**, **useful**, and **fun tech**. My journey is filled with various projects across **full-stack development**, where I focus on creating things that are both functional and enjoyable to use. I'm always learning, experimenting, and finding new ways to level up as a developer. Outside the digital world, I'm all about **balance** — hitting the **gym**, exploring **music**, going on **mini road trips**, and staying fueled by **curiosity** and **coffee**.
+Hi, I'm **Arya**. I'm a **Math & CS student** who enjoys building projects that people can actually use and benefit from. One of my favorite projects so far is the platform I built for **Arya Electric**, a contracting business. It was the first time I saw something I created make a real difference, and it pushed me to keep improving my work.
+
+I'm looking forward to stepping into the industry and joining a team where I can grow, learn from experienced developers, and contribute to meaningful projects.
+
+Outside of tech, I like staying active. I lift, snowboard when I can, and listen to a lot of **R&B and hip-hop**. I'm also a big fan of coffee, especially when the weather gets colder. When I want to slow things down, I usually play my **guitar** for a bit.
 
 <br>
 
