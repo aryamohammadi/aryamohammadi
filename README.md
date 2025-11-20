@@ -17,7 +17,7 @@ Outside of tech, I like staying active. I lift, snowboard when I can, and listen
 <h3>Featured Project</h3>
 <p>
   <strong>Arya Electric Website</strong> - A full-stack Next.js application I built from the ground up for my family's electrical contracting business. Features include quote request forms, portfolio galleries, and mobile-first responsive design.
-  <a href="https://github.com/YOUR_USERNAME/arya-electric-demo">View Case Study →</a>
+  <a href="https://github.com/aryamohammadi/AryaElectric-demo">View Case Study →</a>
 </p>
 
 <br>
