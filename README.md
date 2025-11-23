@@ -57,6 +57,12 @@ Outside of tech, I lift, snowboard when I can, and listen to a lot of **R&B and 
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -74,6 +80,10 @@ Outside of tech, I lift, snowboard when I can, and listen to a lot of **R&B and 
 <img src="https://img.shields.io/badge/Tkinter-FFDB00?style=for-the-badge&logo=python&logoColor=black" />
 
 <!-- Hosting -->
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 
 <img src="https://img.shields.io/badge/PythonAnywhere-1F305F?style=for-the-badge&logo=python&logoColor=white" />
 
