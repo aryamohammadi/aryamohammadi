@@ -12,21 +12,6 @@ I'm looking forward to joining a team where I can learn from experienced develop
 
 Outside of tech, I lift, snowboard when I can, and listen to a lot of **R&B and hip-hop**. I'm also a big fan of coffee, especially when the weather gets colder. When I want to slow things down, I usually play my **guitar** for a bit.
 
-<br>
-
-<h3>Featured Projects</h3>
-<p>
-  <strong>DormDuos</strong> - A production-ready full-stack housing marketplace for UC Riverside students. Built with Node.js, Express, and MongoDB backend paired with a React frontend. Features JWT authentication, CRUD operations, advanced filtering, and pagination. Handles dozens of listing requests weekly with hundreds of active users. Deployed on Railway and Vercel.
-</p>
-<p>
-  <strong>Battlestar RPG</strong> - A terminal-based turn-based combat game built in C++. Demonstrates object-oriented design principles, SOLID architecture, and custom data structures including a MaxHeap for turn order management. Features inventory management with multiple sorting algorithms, save/load functionality, and a state machine architecture for game flow.
-</p>
-<p>
-  <strong>Full-Stack Business Platform</strong> - A Next.js application with RESTful API endpoints and third-party service integrations. Handles customer quote requests, automated follow-up workflows via SMS and email, and lead scoring algorithms. Integrates with Twilio, Nodemailer, and Google Places API. Processes dozens of requests per week in production.
-</p>
-
-<br>
-
 <p align="left">
 
 <h3> My Tech Stack </h3><br/>
