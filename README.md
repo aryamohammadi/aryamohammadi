@@ -94,12 +94,12 @@ MaxHeap combat scheduler, O(n log n) turn ordering, built with a team of 5.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aryamohammadi&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=6E9F5C&icon_color=6E9F5C&text_color=c9d1d9" />
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aryamohammadi&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=6E9F5C&icon_color=6E9F5C&text_color=24292f" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-six-96.vercel.app/api?username=aryamohammadi&show_icons=true&hide_rank=true&hide_border=true&hide=stars,issues&bg_color=00000000&title_color=6E9F5C&icon_color=6E9F5C&text_color=c9d1d9" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats-delta-six-96.vercel.app/api?username=aryamohammadi&show_icons=true&hide_rank=true&hide_border=true&hide=stars,issues&bg_color=00000000&title_color=6E9F5C&icon_color=6E9F5C&text_color=24292f" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamohammadi&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6E9F5C&text_color=c9d1d9" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamohammadi&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6E9F5C&text_color=24292f" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-six-96.vercel.app/api/top-langs/?username=aryamohammadi&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6E9F5C&text_color=c9d1d9" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats-delta-six-96.vercel.app/api/top-langs/?username=aryamohammadi&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6E9F5C&text_color=24292f" />
 </picture>
 
 </div>
