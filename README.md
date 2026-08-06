@@ -4,13 +4,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=6E9F5C&center=true&vCenter=true&width=560&lines=software+engineer;SWE+intern+%40+IBM+watsonx+Orchestrate;CS+%2B+Math+%40+UC+San+Diego;cofounder+%40+Arya+Electric" alt="Typing animation" /></a>
 
-<br/>
-
 <a href="http://linkedin.com/in/aryamshahi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://aryamohammadi.github.io"><img src="https://img.shields.io/badge/Portfolio-6E9F5C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-
-<br/><br/>
 
 CS + Math at UC San Diego. I build full-stack apps, systems software, and AI infrastructure,<br/>and I care about what happens **after** the demo: performance, tests, reliability.
 
@@ -18,14 +14,12 @@ Off hours: lifting, snowboarding, guitar, too much coffee, and a steady rotation
 
 </div>
 
-<br/>
 
 ## Right now
 
 - Building agentic AI at **IBM watsonx Orchestrate**: a knowledge-graph platform, a FastAPI vault server, an **MCP server** with six agent tools, and a VS Code auto-sync extension
 - Running the software behind **[Arya Electric](https://www.aryaelectric.com)**, the electrical contracting company I cofounded. Quote flows, SMS automations, and customer workflows in production
 
-<br/>
 
 ## Shipped
 
