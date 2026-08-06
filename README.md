@@ -27,7 +27,7 @@ My work sits somewhere between **full-stack products, systems programming, and A
 
 
 
-## Right Now
+## Currently
 
 <table>
 <tr>
