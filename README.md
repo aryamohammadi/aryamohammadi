@@ -44,7 +44,6 @@ Catches bugs, suggests optimizations, and breaks down complexity. Structured JSO
 JWT auth, image uploads, NoSQL-injection hardening.
 **`28k req/sec`** · **`<1ms queries`** · **`100% branch coverage`**
 
-<br/>
 
 ### [AryaElectric.com](https://github.com/aryamohammadi/AryaElectricProject-Demo) · production site for a real contractor
 
@@ -53,7 +52,6 @@ JWT auth, image uploads, NoSQL-injection hardening.
 Quote flows, SMS webhooks, automated follow-ups.
 **`90+ tests`** · **`90% latency cut via caching`**
 
-<br/>
 
 ### [Battlestar RPG](https://github.com/aryamohammadi/Battlestar-RPG) · 3.4k-line C++ game engine
 
@@ -62,7 +60,6 @@ Quote flows, SMS webhooks, automated follow-ups.
 MaxHeap combat scheduler, O(n log n) turn ordering, built with a team of 5.
 **`23 classes`** · **`2.3k lines of unit tests`**
 
-<br/>
 
 ## Where I've been
 
