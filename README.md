@@ -35,8 +35,6 @@ Off hours: lifting, snowboarding, guitar, too much coffee, and a steady rotation
 
 Catches bugs, suggests optimizations, and breaks down complexity. Structured JSON output, deployed on Vercel's edge.
 
-<br/>
-
 ### [DormDuos](https://github.com/aryamohammadi/Dormduos) · student housing platform for UCR
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
