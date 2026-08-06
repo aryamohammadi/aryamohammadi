@@ -121,30 +121,21 @@ Team-built RPG engine with a MaxHeap combat scheduler, persistent game state, an
 
 
 
-<h2>Work Experience</h2>
+## Work Experience
 
-<table>
-  <tr>
-    <td width="50%">
-      <strong>IBM</strong><br>
-      <sub>Software Engineer Intern · watsonx Orchestrate</sub>
-    </td>
-    <td width="50%">
-      <strong>Arya Electric</strong><br>
-      <sub>Cofounder</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>UC Riverside</strong><br>
-      <sub>Computer Science & Mathematics Tutor</sub>
-    </td>
-    <td width="50%">
-      <strong>ProCustom Group</strong><br>
-      <sub>Hardware Engineering Intern</sub>
-    </td>
-  </tr>
-</table>
+<dl>
+  <dt><strong>IBM</strong></dt>
+  <dd>Software Engineer Intern · watsonx Orchestrate</dd>
+
+  <dt><strong>Arya Electric</strong></dt>
+  <dd>Cofounder</dd>
+
+  <dt><strong>University of California, Riverside</strong></dt>
+  <dd>Computer Science & Mathematics Tutor</dd>
+
+  <dt><strong>ProCustom Group</strong></dt>
+  <dd>Hardware Engineering Intern</dd>
+</dl>
 
 ## Toolbox
 <div align="center">
