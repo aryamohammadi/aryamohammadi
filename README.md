@@ -121,6 +121,28 @@ Team-built RPG engine with a MaxHeap combat scheduler, persistent game state, an
 
 
 
+## Open Source
+
+<table>
+<tr>
+<td valign="top">
+
+### [AgentSight](https://github.com/eunomia-bpf/agentsight)
+
+**Cursor IDE support for an eBPF-based AI agent observability tool (ACM PACMI '25)**
+
+Reverse-engineered Cursor's undocumented session format and shipped end-to-end support with [@AlecAsdourian](https://github.com/AlecAsdourian): transcript discovery and parsing with sub-agent folding, plus SQLite metadata enrichment. Merged upstream in [PR #149](https://github.com/eunomia-bpf/agentsight/pull/149), released in v1.0.4.
+
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/eBPF-FFDD00?style=flat-square&logo=ebpf&logoColor=black" />
+
+`~2.1k LOC` · `300 tests` · `Merged upstream`
+
+</td>
+</tr>
+</table>
+
 ## Work Experience
 
 <dl>
