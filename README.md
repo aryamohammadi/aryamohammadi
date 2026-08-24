@@ -212,6 +212,23 @@ Team-built RPG engine with a MaxHeap combat scheduler, persistent game state, an
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aryamohammadi&hide_border=true&bg_color=00000000&color=c9d1d9&title_color=B23A48&line=B23A48&point=B23A48&area=true&area_color=B23A48&custom_title=Contributions%20over%20the%20last%2031%20days" />
+  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aryamohammadi&hide_border=true&bg_color=00000000&color=24292f&title_color=B23A48&line=B23A48&point=B23A48&area=true&area_color=B23A48&custom_title=Contributions%20over%20the%20last%2031%20days" />
+</picture>
+<br/>
+<img width="100%" alt="Contribution calendar" src="https://ghchart.rshah.org/B23A48/aryamohammadi" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+
+
 ---
 ---
 
