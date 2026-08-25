@@ -197,40 +197,6 @@ Team-built RPG engine with a MaxHeap combat scheduler, persistent game state, an
 </div>
 
 
-## Commit log
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-six-96.vercel.app/api?username=aryamohammadi&show_icons=true&hide_rank=true&hide_border=true&hide=stars,issues&bg_color=00000000&title_color=6E9F5C&icon_color=6E9F5C&text_color=c9d1d9" />
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats-delta-six-96.vercel.app/api?username=aryamohammadi&show_icons=true&hide_rank=true&hide_border=true&hide=stars,issues&bg_color=00000000&title_color=6E9F5C&icon_color=6E9F5C&text_color=24292f" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-six-96.vercel.app/api/top-langs/?username=aryamohammadi&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6E9F5C&text_color=c9d1d9" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats-delta-six-96.vercel.app/api/top-langs/?username=aryamohammadi&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6E9F5C&text_color=24292f" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aryamohammadi&hide_border=true&bg_color=00000000&color=c9d1d9&title_color=B23A48&line=B23A48&point=B23A48&area=true&area_color=B23A48&custom_title=Contributions%20over%20the%20last%2031%20days" />
-  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aryamohammadi&hide_border=true&bg_color=00000000&color=24292f&title_color=B23A48&line=B23A48&point=B23A48&area=true&area_color=B23A48&custom_title=Contributions%20over%20the%20last%2031%20days" />
-</picture>
-<br/>
-<img width="100%" alt="Contribution calendar" src="https://ghchart.rshah.org/B23A48/aryamohammadi" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-
-
----
----
 
 ### Find me online
 
