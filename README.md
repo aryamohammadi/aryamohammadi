@@ -4,12 +4,12 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=6E9F5C&vCenter=true&width=620&lines=software+engineer;SWE+intern+%40+IBM+watsonx+Orchestrate;CS+%2B+Math+%40+UC+San+Diego;cofounder+%40+Arya+Electric"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=6E9F5C&vCenter=true&width=620&lines=software+engineer;prev+SWE+intern+%40+IBM+watsonx+Orchestrate;CS+%2B+Math+%40+UC+San+Diego;cofounder+%40+Arya+Electric"
     alt="Typing animation"
   />
 </a>
 
-I’m a CS + Math student at UC San Diego, a software engineering intern at IBM, and the cofounder of Arya Electric.
+I’m a CS + Math student at UC San Diego, previously a software engineering intern at IBM, and the cofounder of Arya Electric.
 
 My work sits somewhere between **full-stack products, systems programming, and AI infrastructure**. I care about performance, reliability, clean architecture, and whether something still works once real users touch it.
 
@@ -31,14 +31,7 @@ My work sits somewhere between **full-stack products, systems programming, and A
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### IBM watsonx Orchestrate
-
-Building agentic AI infrastructure, including a knowledge graph, FastAPI vault server, MCP server with six agent tools, and a VS Code auto-sync extension.
-
-</td>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### [Arya Electric](https://www.aryaelectric.com)
 
@@ -147,7 +140,7 @@ Team-built RPG engine with a MaxHeap combat scheduler, persistent game state, an
 
 <dl>
   <dt><strong>IBM</strong></dt>
-  <dd>Software Engineer Intern · watsonx Orchestrate</dd>
+  <dd>Software Engineer Intern · watsonx Orchestrate · Jun – Sep 2026</dd>
 
   <dt><strong>Arya Electric</strong></dt>
   <dd>Cofounder</dd>
