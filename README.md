@@ -4,14 +4,14 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=6E9F5C&vCenter=true&width=620&lines=software+engineer;prev+SWE+intern+%40+IBM+watsonx+Orchestrate;CS+%2B+Math+%40+UC+San+Diego;cofounder+%40+Arya+Electric"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=6E9F5C&vCenter=true&width=620&lines=software+engineer;prev+SWE+intern+%40+IBM+watsonx+Orchestrate;CS+%2B+Math+%40+UC+San+Diego;cofounder+%40+Arya+Electric;cofounder+%40+Brickt"
     alt="Typing animation"
   />
 </a>
 
-I’m a CS + Math student at UC San Diego, previously a software engineering intern at IBM, and the cofounder of Arya Electric.
+I’m a CS + Math student at UC San Diego (class of 2027), previously a software developer intern at IBM on watsonx Orchestrate, and the cofounder of Arya Electric and Brickt.
 
-My work sits somewhere between **full-stack products, systems programming, and AI infrastructure**. I care about performance, reliability, clean architecture, and whether something still works once real users touch it.
+My work sits somewhere between **full-stack products, systems programming, and AI infrastructure** (RAG, retrieval, and agent tooling). I care about performance, reliability, clean architecture, and whether something still works once real users touch it.
 
 <a href="http://linkedin.com/in/aryamshahi/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -31,11 +31,34 @@ My work sits somewhere between **full-stack products, systems programming, and A
 
 <table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
+
+### Brickt
+
+**Construction management web app · Cofounder · Aug 2026 – Present**
+
+Founding engineer on a 3-person team. Took it from concept to a staging deployment in 7 weeks, including server-side role-based access control with subcontractor-level bid isolation.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+`RBAC` · `Concept to staging in 7 weeks` · `Team of 3`
+
+</td>
+<td width="50%" valign="top">
 
 ### [Arya Electric](https://www.aryaelectric.com)
 
-Building and running the production software behind the electrical contracting company I cofounded, including quote flows, SMS automation, and customer workflows.
+**Electrical contractor · Software Engineer & Cofounder · Jun 2025 – Present**
+
+Building and running the production software behind the business: quote flows, an AI quote-intake system, SMS/email automation, and an admin dashboard.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+
+`$30K+ booked jobs` · `+25% inbound leads` · `Production`
 
 </td>
 </tr>
@@ -51,13 +74,13 @@ Building and running the production software behind the electrical contracting c
 
 **Cursor IDE support for an eBPF-based AI agent observability tool (ACM PACMI '25)**
 
-Reverse-engineered Cursor's undocumented session format and shipped end-to-end support with [@AlecAsdourian](https://github.com/AlecAsdourian): transcript discovery and parsing with sub-agent folding, plus SQLite metadata enrichment. Merged upstream in [PR #149](https://github.com/eunomia-bpf/agentsight/pull/149), released in v1.0.4.
+Reverse-engineered Cursor's undocumented session format and shipped end-to-end support with [@AlecAsdourian](https://github.com/AlecAsdourian): a read-only SQLite tracing backend that recovers model, latency, and token usage from Cursor's 500 MB database, plus Cursor session discovery in the published `agent-session` Rust crate without breaking its public API. Merged upstream in [PR #149](https://github.com/eunomia-bpf/agentsight/pull/149), released in v1.0.4.
 
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/eBPF-FFDD00?style=flat-square&logo=ebpf&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
 
-`~2.1k LOC` · `300 tests` · `Merged upstream`
+`~2.1k LOC` · `15 tests added` · `Merged upstream`
 
 </td>
 </tr>
@@ -140,13 +163,34 @@ Team-built RPG engine with a MaxHeap combat scheduler, persistent game state, an
 
 <dl>
   <dt><strong>IBM</strong></dt>
-  <dd>Software Engineer Intern · watsonx Orchestrate · Jun – Sep 2026</dd>
+  <dd>Software Developer Intern · watsonx Orchestrate · Austin, TX · Jun – Sep 2026</dd>
+  <dd>
+    <ul>
+      <li>Raised Recall@3 by 55% in a production RAG pipeline (Python, OpenSearch) with score normalization and feature-flagged vector search.</li>
+      <li>Built a retrieval evaluation pipeline over 1,000+ labeled queries (NDCG@10, MRR) with regression checks in CI.</li>
+      <li>Built a RAG onboarding agent on watsonx Orchestrate ADK and IBM Granite, adopted by the Orchestrate team; cut onboarding support requests by 45%.</li>
+      <li>Built a pytest API testing framework covering 80+ watsonx Orchestrate REST endpoints, wired into team CI.</li>
+      <li>3rd of 184 teams at IBM's internal hackathon with a semantic cache (FastAPI, MCP): 40% hit rate, 37% lower latency.</li>
+    </ul>
+  </dd>
 
   <dt><strong>Arya Electric</strong></dt>
-  <dd>Cofounder</dd>
+  <dd>Software Engineer & Cofounder · Irvine, CA · Jun 2025 – Present</dd>
+  <dd>
+    <ul>
+      <li>Built and deployed the full-stack site (Next.js, TypeScript, PostgreSQL, Twilio): $30K+ in booked jobs, +25% inbound leads.</li>
+      <li>Built an AI quote-intake system with Claude Haiku and Zod-validated outputs, cutting intake time by 40%.</li>
+      <li>Built a Next.js + Firebase admin dashboard that cut publishing time by 80% and removed manual redeploys.</li>
+    </ul>
+  </dd>
 
   <dt><strong>University of California, Riverside</strong></dt>
-  <dd>Computer Science & Mathematics Tutor</dd>
+  <dd>Computer Science & Mathematics Tutor · Sep 2024 – Jun 2025</dd>
+  <dd>
+    <ul>
+      <li>Taught data structures and algorithms in C++ to 400+ students over 600 hours, and debugged 100+ student codebases.</li>
+    </ul>
+  </dd>
 
   <dt><strong>ProCustom Group</strong></dt>
   <dd>Hardware Engineering Intern</dd>
@@ -158,6 +202,7 @@ Team-built RPG engine with a MaxHeap combat scheduler, persistent game state, an
 <strong>Languages</strong>&nbsp;&nbsp;
 <img height="24" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img height="24" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img height="24" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img height="24" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
 <img height="24" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img height="24" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -172,13 +217,17 @@ Team-built RPG engine with a MaxHeap combat scheduler, persistent game state, an
 <img height="24" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img height="24" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img height="24" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img height="24" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img height="24" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img height="24" src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" />
 <img height="24" src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
 
 <strong>Tools</strong>&nbsp;&nbsp;
 <img height="24" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
 <img height="24" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 <img height="24" src="https://img.shields.io/badge/GoogleTest-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img height="24" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+<img height="24" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img height="24" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img height="24" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
 <img height="24" src="https://img.shields.io/badge/Valgrind-4B275F?style=flat-square" />
